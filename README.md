@@ -24,7 +24,7 @@ This collection leverages the best tools in modern web development:
 
 | Project Name | Technology | Live Demo | Features |
 | :--- | :--- | :--- | :--- |
-| **Vista Landing Page** | HTML / CSS / JS | [Demo](#) | Fully Responsive, Modern UI, Smooth Scrolling, Optimized for Mobile |
+| **Vista Landing Page** | HTML / CSS / JS | [Demo](https://mahaba254002.github.io/LandingPages/VistaLandingPage/) | Fully Responsive, Modern UI, Smooth Scrolling, Optimized for Mobile |
 | *More coming soon...* | - | - | - |
 
 ---
