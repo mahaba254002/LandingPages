@@ -57,7 +57,21 @@ Make sure you have [Node.js](https://nodejs.org/) installed if you are exploring
 
 ---
 
-## 🎨 Design Philosophy
+## � Deployment Guide
+
+### Deploying Sub-folders separately
+
+Each landing page in this repository can be deployed as an independent site on GitHub Pages:
+
+1.  **Enable GitHub Pages**: Go to **Settings > Pages** in your repo.
+2.  **Source**: Select **Deploy from a branch** and choose `main` / `/(root)`.
+3.  **Access Projects**:
+    *   **Vista**: `https://mahaba254002.github.io/LandingPages/VistaLandingPage/`
+    *   **New Page**: `https://mahaba254002.github.io/LandingPages/[Folder-Name]/`
+
+---
+
+## �🎨 Design Philosophy
 
 Every landing page in this collection focuses on:
 - **Visual Excellence:** Premium typography, balanced layouts, and vibrant color palettes.
