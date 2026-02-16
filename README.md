@@ -24,7 +24,7 @@ This collection leverages the best tools in modern web development:
 
 | Project Name | Technology | Live Demo | Features |
 | :--- | :--- | :--- | :--- |
-| **Vista Landing Page** | HTML / CSS / JS | [Demo](#) | Responsive Design, Modern UI, Smooth Scrolling |
+| **Vista Landing Page** | HTML / CSS / JS | [Demo](#) | Fully Responsive, Modern UI, Smooth Scrolling, Optimized for Mobile |
 | *More coming soon...* | - | - | - |
 
 ---
